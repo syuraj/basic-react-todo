@@ -1,3 +1,7 @@
+# Demo
+<img src="demo/basic-react-todo-demo.gif" height="400">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
